@@ -10,6 +10,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
 end
 gem 'jquery-rails'
+gem 'protected_attributes'
 group :production do
 gem 'pg'
 gem 'turbolinks'
