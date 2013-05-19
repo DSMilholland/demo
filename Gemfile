@@ -12,6 +12,7 @@ end
 gem 'jquery-rails'
 group :production do
 gem 'pg'
+gem 'turbolinks'
 end
 
 # Use ActiveModel has_secure_password
